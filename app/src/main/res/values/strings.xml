@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">QuizMaker</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hWelcome">Welcome to the Quiz Maker. Please create a question before starting the quiz.</string>
+    <string name="btnCreate">Create quiz</string>
+    <string name="btnStart">Start quiz</string>
+    <string name="hAnswer">Answer</string>
+    <string name="confirmanswer">Confirm answer</string>>
+</resources>
